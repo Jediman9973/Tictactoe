@@ -109,6 +109,3 @@ board = [
     ["X", "X", ""],
     ["O", "O", ""]
 ]
-
-print(bestmove_for_X(board))
-print(bestmove_for_O(board))
